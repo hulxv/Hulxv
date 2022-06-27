@@ -10,4 +10,7 @@
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hulxv&layout=compact&theme=gotham&show_icons=true)
 
+
+![Profile views](https://gpvc.arturio.dev/Hulxv)
+
 </div>
