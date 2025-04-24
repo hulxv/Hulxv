@@ -1,16 +1,35 @@
-<div align='center'>
+![alone](assets/alone.gif)
+ I am Mohamed Emad (or you can call me Hulxv), a hobbyist software developer and GNU/Linux user (I use Arch, BTW xD). I am interested in Low-level programming and how software works behind the scenes. I build open-source projects, publish them on here, and contribute to others. Currently, I am interested in building compilers and the LLVM project and trying to learn more about them.
 
-## Hey, I'm Hulxv 👋
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/268945319511851010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hulxv) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hulxv)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hulxxv@gmail.com) 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Hulxv&show_icons=true&theme=gotham)
+# GitHub Stats:
+<center>
+  
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hulxv&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![](https://github-readme-stats.vercel.app/api?username=hulxv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hulxv&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hulxv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![contribution graph](https://activity-graph.herokuapp.com/graph?username=Hulxv&theme=gotham)
+</center>
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hulxv&layout=compact&theme=gotham&show_icons=true)
+### ✍️ Random Dev Quote
+
+<center>
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</center>
+
+### Top Contributed Repo
 
 
-![Profile views](https://gpvc.arturio.dev/Hulxv)
+![](https://github-contributor-stats.vercel.app/api?username=hulxv&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=hulxv&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
