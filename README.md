@@ -8,6 +8,8 @@
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+</div>
+
 # GitHub Stats:
 
 <div align='center'>  
