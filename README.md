@@ -10,13 +10,13 @@
 
 </div>
 
-### GitHub Stats:
+## GitHub Stats
 
 <div align="center">  
 
-<img width="550px" src="https://github-readme-stats.vercel.app/api?username=hulxv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true"><br>
+<img width="550px" src="https://github-readme-stats.vercel.app/api?username=hulxv&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true">
 
-<img width="550px" src="https://nirzak-streak-stats.vercel.app/?user=hulxv&theme=shadow_blue&hide_border=false"><br>
+<img width="550px" src="https://nirzak-streak-stats.vercel.app/?user=hulxv&theme=shadow_blue&hide_border=false">
 
 <img width="550px" src="https://github-contributor-stats.vercel.app/api?username=hulxv&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true">
 
